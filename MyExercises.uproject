@@ -36,6 +36,10 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
 		}
 	]
 }
